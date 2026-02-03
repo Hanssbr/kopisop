@@ -28,7 +28,6 @@ export const LandingPage = () => {
           </div>
         </div>
       </div>
-      <div className="w-20 h-20 bg-red sm:flex md:hidden"></div>
     </>
   );
 };
