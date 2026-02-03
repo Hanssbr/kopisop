@@ -1,4 +1,3 @@
-import React from "react";
 import kopi from "../assets/Kopi-Front.png";
 
 export const LandingPage = () => {
