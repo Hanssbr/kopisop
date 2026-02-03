@@ -5,5 +5,16 @@
   --font-montserrat: "Montserrat", sans-serif;
 
   --color-brown: #573737;
+
+  --animate-marquee: marquee 15s linear infinite;
 }
 
+
+@keyframes marquee {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}

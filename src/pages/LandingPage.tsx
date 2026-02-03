@@ -13,22 +13,16 @@ export const LandingPage = () => {
             />
           </div>
 
-          <div className="md:w-full md:absolute top-50 left-0 text-center mt-10 hidden">
-            <p className="warp-break-word text-9xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
-              COFFEEMU
+          <div className="w-full md:absolute md:inline top-70 left-0 text-center mt-10 hidden">
+            <p className=" text-9xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
+              COFFEMU
             </p>
           </div>
-          <div className="md:w-full md:hidden absolute top-30 left-0 text-center mt-10">
-            <p className="warp-break-word text-9xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
-              CO
+          <div className="md:w-full md:hidden absolute top-50 left-0 text-center mt-10">
+            <p className="text-8xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
+              COFFE
             </p>
-            <p className="warp-break-word text-9xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
-              FF
-            </p>
-            <p className="warp-break-word text-9xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
-              EE
-            </p>
-            <p className="warp-break-word text-9xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
+            <p className="text-start text-8xl md:text-[260px] font-extrabold mix-blend-plus-lighter opacity-65 text-[#EDECE6] font-montserrat">
               MU
             </p>
           </div>
