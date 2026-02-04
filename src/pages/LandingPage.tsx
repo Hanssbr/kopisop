@@ -3,7 +3,7 @@ import kopi from "../assets/Kopi-Front.png";
 export const LandingPage = () => {
   return (
     <>
-      <div id="container">
+      <div id="container" className="bg-brown">
         <div className="relative text-center">
           <div className="w-full h-screen md:h-auto overflow-hidden">
             <img
