@@ -7,11 +7,11 @@
   --color-brown: #573737;
   --color-cream: #FFF6E1;
 
-  --animate-marquee: marquee 30s linear infinite;
+  --animate-scroll-side: scroll-side 30s linear infinite;
 }
 
 
-@keyframes marquee {
+@keyframes scroll-side {
   from {
     transform: translateX(0%);
   }
